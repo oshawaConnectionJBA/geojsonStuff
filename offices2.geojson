@@ -1,0 +1,9 @@
+{
+	"type": "FeatureCollection",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+	"features": [
+	{ "type": "Feature", "properties": { "id": "7", "organisation": "JBA Bentley Ltd", "town": null, "postcode": "LS10 1PZ" }, "geometry": { "type": "Point", "coordinates": [ 430937.0, 432828.0 ] } },
+	{ "type": "Feature", "properties": { "id": "12", "organisation": "JBA Consulting", "town": null, "postcode": "BD18 3LF" }, "geometry": { "type": "Point", "coordinates": [ 413974.0, 438087.0 ] } },
+	{ "type": "Feature", "properties": { "id": "18", "organisation": "JBA Consulting", "town": null, "postcode": "WA1 1NN" }, "geometry": { "type": "Point", "coordinates": [ 360136.0, 388108.0 ] } }
+	]
+}
